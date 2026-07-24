@@ -1,1 +1,357 @@
-
+{
+  "meta": {
+    "name": "hypixel-legit",
+    "author": "Egemen",
+    "description": "Hypixel icin legit ayarlar",
+    "clientVersion": "1.0.0",
+    "schemaVersion": 2,
+    "savedAt": "2026-07-25 14:30"
+  },
+  "modules": {
+    "Aimbot": {
+      "enabled": false,
+      "m_fov": 60.0,
+      "m_heightOffset": 1.600000023841858,
+      "m_key": 82,
+      "m_mode": 0,
+      "m_range": 4.0,
+      "m_smoothing": 10.0
+    },
+    "Ambient": {
+      "enabled": true,
+      "m_skyColor": [
+        0.16228905320167542,
+        0.04262137785553932,
+        0.5611814260482788,
+        1.0
+      ]
+    },
+    "Aspect Ratio": {
+      "enabled": true,
+      "m_aspectRatio": 1.600000023841858
+    },
+    "Auto Clicker": {
+      "enabled": false,
+      "m_jitter": false,
+      "m_jitterStrength": 1.0,
+      "m_maxCps": 12.0,
+      "m_minCps": 8.0,
+      "m_randomization": true
+    },
+    "Auto Sprint": {
+      "enabled": true,
+      "m_isSprinting": false
+    },
+    "Blink": {
+      "enabled": true,
+      "m_animAlpha": -4.203895392974451e-45,
+      "m_animProgress": 0.017836542800068855,
+      "m_autoRelease": true,
+      "m_autoReleaseLimit": 15,
+      "m_blinkActive": false,
+      "m_blinkKey": 82,
+      "m_blinkLastKeyState": false,
+      "m_blinkMode": 1,
+      "m_blinkToggleState": false,
+      "m_showPacketCount": true
+    },
+    "Custom Fog": {
+      "enabled": true,
+      "m_color": [
+        0.01474171131849289,
+        0.12158761918544769,
+        0.36199092864990234,
+        1.0
+      ],
+      "m_discoMode": false,
+      "m_discoSpeed": 1.0,
+      "m_mode": 0,
+      "m_noFog": false,
+      "m_overrideColor": true,
+      "m_start": 0.0
+    },
+    "Discord RPC": {
+      "enabled": true,
+      "m_wasEnabled": true
+    },
+    "ESP": {
+      "chams": false,
+      "chinaHat": false,
+      "colorChams": [
+        0.0,
+        0.5,
+        1.0,
+        0.4000000059604645
+      ],
+      "colorChinaHat": [
+        1.0,
+        0.0,
+        0.0,
+        0.800000011920929
+      ],
+      "colorGhost": [
+        0.6000000238418579,
+        0.0,
+        1.0,
+        0.800000011920929
+      ],
+      "colorNameTag": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "colorPlayer": [
+        0.0,
+        0.09049773216247559,
+        1.0,
+        1.0
+      ],
+      "colorTracer": [
+        1.0,
+        1.0,
+        1.0,
+        0.6000000238418579
+      ],
+      "draw3D": true,
+      "enabled": true,
+      "ghostESP": false,
+      "lineWidth": 2.0,
+      "nameTag": false,
+      "playerEsp": true,
+      "tracers": false
+    },
+    "Fast Place": {
+      "enabled": true,
+      "m_delay": 1.7000000476837158
+    },
+    "Freecam": {
+      "enabled": false,
+      "m_camX": 0.0,
+      "m_camY": 0.0,
+      "m_camZ": 0.0,
+      "m_cameraRotDetected": false,
+      "m_captured": false,
+      "m_origTransX": 0.0,
+      "m_origTransY": 0.0,
+      "m_origTransZ": 0.0,
+      "m_pitch": 0.0,
+      "m_rotateState": 0,
+      "m_speed": 0.5,
+      "m_yaw": 0.0
+    },
+    "Hand Chams": {
+      "enabled": false,
+      "m_animationSpeed": 1.399999976158142,
+      "m_animationStrength": 0.699999988079071,
+      "m_animations": false,
+      "m_color": [
+        0.20000000298023224,
+        0.6200000047683716,
+        1.0,
+        0.75
+      ],
+      "m_disableLighting": true,
+      "m_ignoreDepth": true,
+      "m_material": 0
+    },
+    "Item ESP": {
+      "enabled": false,
+      "m_chams": false,
+      "m_colorChams": [
+        1.0,
+        0.5,
+        0.0,
+        0.30000001192092896
+      ],
+      "m_colorItem": [
+        1.0,
+        0.4000000059604645,
+        0.10000000149011612,
+        1.0
+      ],
+      "m_colorTracer": [
+        1.0,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.5
+      ],
+      "m_draw3D": true,
+      "m_lineWidth": 1.5,
+      "m_tracers": false
+    },
+    "Keystrokes": {
+      "enabled": false,
+      "m_dragOffsetX": 0.0,
+      "m_dragOffsetY": 0.0,
+      "m_dragging": false,
+      "m_glowStrength": 0.800000011920929,
+      "m_posX": 32.0,
+      "m_posY": 260.0,
+      "m_prevLeftDown": false,
+      "m_prevRightDown": false,
+      "m_rounding": 9.0,
+      "m_scale": 1.0,
+      "m_showCps": true,
+      "m_showMouse": true,
+      "m_showSpace": true
+    },
+    "Legit Aura": {
+      "enabled": true,
+      "m_blockHitChance": 50.0,
+      "m_blockHitEnabled": false,
+      "m_fov": 169.8000030517578,
+      "m_heightOffset": -1.1399999856948853,
+      "m_key": 82,
+      "m_maxCps": 15.300000190734863,
+      "m_minCps": 13.399999618530273,
+      "m_mode": 1,
+      "m_optimization": false,
+      "m_range": 5.0,
+      "m_smoothing": 4.400000095367432,
+      "m_tracking": false
+    },
+    "No Hurt Cam": {
+      "enabled": true,
+      "m_strength": 1.0
+    },
+    "No Jump Delay": {
+      "enabled": false
+    },
+    "Player Scale": {
+      "enabled": false,
+      "m_scaleX": 1.0,
+      "m_scaleY": 1.0,
+      "m_scaleZ": 1.0
+    },
+    "Radar": {
+      "enabled": false,
+      "m_dragOffsetX": 0.0,
+      "m_dragOffsetY": 0.0,
+      "m_dragging": false,
+      "m_maxDistance": 64.0,
+      "m_mode": 0,
+      "m_posX": 120.0,
+      "m_posY": 120.0,
+      "m_showDistance": false,
+      "m_showGrid": true,
+      "m_size": 140.0,
+      "m_zoom": 4.0
+    },
+    "Speed": {
+      "enabled": false,
+      "m_isJumping": false,
+      "m_mode": 0
+    },
+    "Spotify": {
+      "enabled": true,
+      "m_colorSeed": 733,
+      "m_coverHeight": 0,
+      "m_coverRotation": 186.68292236328125,
+      "m_coverWidth": 0,
+      "m_dragAnim": 2.802596928649634e-45,
+      "m_estimatedDuration": 181.72300720214844,
+      "m_fadeAlpha": 0.9999999403953552,
+      "m_hueShift": 0.8868330121040344,
+      "m_isPlaying": true,
+      "m_manualOffset": 0.0,
+      "m_pendingCoverReady": false,
+      "m_progressSmooth": 0.582853376865387,
+      "m_pulsePhase": 2088.681396484375,
+      "m_sharedColorSeed": 733,
+      "m_sharedDuration": 181.72300720214844,
+      "m_sharedIsPlaying": true,
+      "m_showArtist": true,
+      "m_showCover": true,
+      "m_showProgress": true,
+      "m_showTitle": true,
+      "m_starsInitialized": true,
+      "m_titleScrollOffset": 0.0,
+      "m_waveAnimation": true
+    },
+    "Storage ESP": {
+      "enabled": false,
+      "m_chams": false,
+      "m_chestEsp": true,
+      "m_colorChams": [
+        1.0,
+        1.0,
+        1.0,
+        0.30000001192092896
+      ],
+      "m_colorChest": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "m_colorLargeChest": [
+        0.9100000262260437,
+        0.8700000047683716,
+        0.41999998688697815,
+        1.0
+      ],
+      "m_colorTracer": [
+        0.0,
+        0.800000011920929,
+        1.0,
+        0.5
+      ],
+      "m_draw3D": true,
+      "m_largeChestEsp": true,
+      "m_lineWidth": 1.5,
+      "m_tracers": false
+    },
+    "Theme": {
+      "BackgroundColor": [
+        0.01936894655227661,
+        0.0,
+        0.1945701241493225,
+        1.0
+      ],
+      "BorderColor": [
+        0.22842639684677124,
+        0.22842639684677124,
+        0.22842639684677124,
+        1.0
+      ],
+      "PrimaryColor": [
+        0.6499999761581421,
+        0.6499999761581421,
+        0.6499999761581421,
+        1.0
+      ],
+      "TextColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "Timer": {
+      "enabled": false,
+      "m_key": 0,
+      "m_mode": 1,
+      "m_speed": 2.0
+    },
+    "Triggerbot": {
+      "enabled": false,
+      "m_fov": 180.0,
+      "m_key": 70,
+      "m_maxCps": 14.0,
+      "m_minCps": 9.0,
+      "m_mode": 0,
+      "m_range": 3.5
+    },
+    "View Model": {
+      "enabled": true,
+      "m_viewmodelX": 0.9100000262260437,
+      "m_viewmodelY": -0.2800000011920929,
+      "m_viewmodelZ": -1.190000057220459
+    },
+    "XRay": {
+      "enabled": false
+    }
+  }
+}
