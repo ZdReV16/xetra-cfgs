@@ -1,11 +1,11 @@
 {
   "meta": {
     "name": "hypixel-legit",
-    "author": "Egemen",
-    "description": "Hypixel icin legit ayarlar",
+    "author": "ZdRe",
+    "description": "Legit settings for Hypixel",
     "clientVersion": "1.0.0",
     "schemaVersion": 2,
-    "savedAt": "2026-07-25 14:30"
+    "savedAt": "2026-07-25 00:09"
   },
   "modules": {
     "Aimbot": {
