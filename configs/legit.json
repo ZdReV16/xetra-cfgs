@@ -1,8 +1,8 @@
 {
   "meta": {
-    "name": "hypixel-legit",
+    "name": "legit",
     "author": "ZdRe",
-    "description": "Legit settings for Hypixel",
+    "description": "Legit config",
     "clientVersion": "1.0.0",
     "schemaVersion": 2,
     "savedAt": "2026-07-25 00:09"
