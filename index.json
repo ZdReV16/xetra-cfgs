@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "configs": [
+    {
+      "id": "hypixel-legit",
+      "name": "Hypixel Legit",
+      "author": "Egemen",
+      "description": "Hypixel icin legit ayarlar",
+      "clientVersion": "1.0.0",
+      "fileSize": 4820,
+      "url": "https://raw.githubusercontent.com/Egemen/Xetra-Configs/main/configs/hypixel-legit.json",
+      "checksum": "",
+      "updatedAt": "2026-07-25"
+    }
+  ]
+}
