@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "configs": [
     {
-      "id": "hypixel-legit",
-      "name": "Hypixel Legit",
+      "id": "legit",
+      "name": "Legit",
       "author": "ZdRe",
-      "description": "Legit settings for Hypixel",
+      "description": "Legit config",
       "clientVersion": "1.0.0",
       "fileSize": 4820,
-      "url": "https://raw.githubusercontent.com/ZdReV16/xetra-cfgs/main/configs/hypixel-legit.json",
+      "url": "https://raw.githubusercontent.com/ZdReV16/xetra-cfgs/main/configs/legit.json",
       "checksum": "",
       "updatedAt": "2026-07-25"
     }
